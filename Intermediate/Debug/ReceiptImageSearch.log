@@ -1,0 +1,7 @@
+﻿  ReceiptImageSearch.cpp
+F:\pro\Coloso\ImageSearch\ReceiptImageSearch\ReceiptImageSearch.cpp(57,53): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ReceiptImageSearch.cpp'을(를) 컴파일하는 중)
+  
+  ReceiptImageSearch.vcxproj -> F:\pro\Coloso\ImageSearch\ReceiptImageSearch\Binaries\ReceiptImageSearch.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
