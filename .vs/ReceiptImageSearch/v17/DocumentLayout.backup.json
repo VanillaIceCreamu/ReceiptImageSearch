@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ReceiptImageSearch.cpp",
               "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ReceiptImageSearch.cpp",
               "RelativeToolTip": "ReceiptImageSearch.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-17T13:18:27.44Z",
               "EditorCaption": ""
@@ -47,7 +47,8 @@
               "RelativeToolTip": "pch.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAApwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-17T13:19:40.341Z"
+              "WhenOpened": "2025-03-17T13:19:40.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "pch.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T13:35:31.961Z"
+              "WhenOpened": "2025-03-17T13:35:31.961Z",
+              "EditorCaption": ""
             }
           ]
         }

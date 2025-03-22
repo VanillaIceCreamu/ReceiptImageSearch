@@ -7,6 +7,12 @@
     <Filter Include="99.Headers">
       <UniqueIdentifier>{1b235cfa-b0bf-43bf-baa6-818afcb34616}</UniqueIdentifier>
     </Filter>
+    <Filter Include="01. Preprocessing">
+      <UniqueIdentifier>{5cd946be-383b-4b41-aa1e-793210878f49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Resources">
+      <UniqueIdentifier>{433c6e65-0db5-4ec7-b810-db05404119cc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ReceiptImageSearch.cpp">
@@ -15,10 +21,37 @@
     <ClCompile Include="pch.cpp">
       <Filter>99.Headers</Filter>
     </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>03.Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceBase.cpp">
+      <Filter>03.Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="ImagePreProcessing.cpp">
+      <Filter>01. Preprocessing</Filter>
+    </ClCompile>
+    <ClCompile Include="PreProcessing.cpp">
+      <Filter>01. Preprocessing</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>99.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>03.Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceBase.h">
+      <Filter>03.Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Types.h">
+      <Filter>99.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ImagePreProcessing.h">
+      <Filter>01. Preprocessing</Filter>
+    </ClInclude>
+    <ClInclude Include="PreProcessing.h">
+      <Filter>01. Preprocessing</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

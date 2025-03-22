@@ -145,13 +145,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Image.cpp" />
+    <ClCompile Include="ImagePreProcessing.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="PreProcessing.cpp" />
     <ClCompile Include="ReceiptImageSearch.cpp" />
+    <ClCompile Include="ResourceBase.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Image.h" />
+    <ClInclude Include="ImagePreProcessing.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="PreProcessing.h" />
+    <ClInclude Include="ResourceBase.h" />
+    <ClInclude Include="Types.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets" />

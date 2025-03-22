@@ -4,8 +4,9 @@
 #define PCH_H
 #endif //PCH_H
 
-#include <iostream>
+#include "Types.h"
 
+#include <iostream>
 #include <memory>
 
 #include <algorithm>
