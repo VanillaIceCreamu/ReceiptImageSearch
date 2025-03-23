@@ -19,3 +19,10 @@ void Image::Load(const std::string& path)
 		assert(true);
 
 }
+
+std::shared_ptr<Image> Image::Clone()
+{
+	std::shared_ptr<Image> img = std::make_shared<Image>();
+	img->_img = std::make_shared<Mat>(_img->clone());
+	return img;
+}

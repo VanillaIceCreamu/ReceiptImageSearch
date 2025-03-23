@@ -5,11 +5,13 @@
 #endif //PCH_H
 
 #include "Types.h"
+#include "Defines.h"
 
 #include <iostream>
 #include <memory>
 
 #include <algorithm>
+#include <vector>
 #include <list>
 #include <Array>
 #include <string>

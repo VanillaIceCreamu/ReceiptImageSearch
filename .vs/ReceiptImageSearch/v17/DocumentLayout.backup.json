@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\OCR.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:OCR.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\OCR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:OCR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ReceiptImageSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:ReceiptImageSearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ImagePreprocessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:ImagePreprocessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ImagePreprocessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:ImagePreprocessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ResourceBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:ResourceBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|solutionrelative:Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD124119-D3D9-4610-8863-F203B16DACE6}|ReceiptImageSearch.vcxproj|F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,38 +53,90 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 171,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReceiptImageSearch.cpp",
-              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ReceiptImageSearch.cpp",
-              "RelativeDocumentMoniker": "ReceiptImageSearch.cpp",
-              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ReceiptImageSearch.cpp",
-              "RelativeToolTip": "ReceiptImageSearch.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "OCR.cpp",
+              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\OCR.cpp",
+              "RelativeDocumentMoniker": "OCR.cpp",
+              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\OCR.cpp",
+              "RelativeToolTip": "OCR.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T13:18:27.44Z",
+              "WhenOpened": "2025-03-23T16:33:26.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "OCR.h",
+              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\OCR.h",
+              "RelativeDocumentMoniker": "OCR.h",
+              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\OCR.h",
+              "RelativeToolTip": "OCR.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-23T16:28:44.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResourceBase.h",
+              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ResourceBase.h",
+              "RelativeDocumentMoniker": "ResourceBase.h",
+              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ResourceBase.h",
+              "RelativeToolTip": "ResourceBase.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-22T10:16:04.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Types.h",
+              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\Types.h",
+              "RelativeDocumentMoniker": "Types.h",
+              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\Types.h",
+              "RelativeToolTip": "Types.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-22T10:29:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "pch.h",
               "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\pch.h",
               "RelativeDocumentMoniker": "pch.h",
               "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\pch.h",
               "RelativeToolTip": "pch.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAApwBgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-17T13:19:40.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "Image.cpp",
+              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\Image.cpp",
+              "RelativeDocumentMoniker": "Image.cpp",
+              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\Image.cpp",
+              "RelativeToolTip": "Image.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T10:15:48.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "pch.cpp",
               "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\pch.cpp",
               "RelativeDocumentMoniker": "pch.cpp",
@@ -61,6 +145,64 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-17T13:35:31.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImagePreprocessor.cpp",
+              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ImagePreprocessor.cpp",
+              "RelativeDocumentMoniker": "ImagePreprocessor.cpp",
+              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ImagePreprocessor.cpp",
+              "RelativeToolTip": "ImagePreprocessor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T15:04:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReceiptImageSearch.cpp",
+              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ReceiptImageSearch.cpp",
+              "RelativeDocumentMoniker": "ReceiptImageSearch.cpp",
+              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ReceiptImageSearch.cpp",
+              "RelativeToolTip": "ReceiptImageSearch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T13:18:27.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImagePreprocessor.h",
+              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ImagePreprocessor.h",
+              "RelativeDocumentMoniker": "ImagePreprocessor.h",
+              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\ImagePreprocessor.h",
+              "RelativeToolTip": "ImagePreprocessor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-23T15:04:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Image.h",
+              "DocumentMoniker": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\Image.h",
+              "RelativeDocumentMoniker": "Image.h",
+              "ToolTip": "F:\\pro\\Coloso\\ImageSearch\\ReceiptImageSearch\\Image.h",
+              "RelativeToolTip": "Image.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-22T10:15:19.554Z",
               "EditorCaption": ""
             }
           ]

@@ -7,11 +7,14 @@
     <Filter Include="99.Headers">
       <UniqueIdentifier>{1b235cfa-b0bf-43bf-baa6-818afcb34616}</UniqueIdentifier>
     </Filter>
-    <Filter Include="01. Preprocessing">
-      <UniqueIdentifier>{5cd946be-383b-4b41-aa1e-793210878f49}</UniqueIdentifier>
-    </Filter>
     <Filter Include="03.Resources">
       <UniqueIdentifier>{433c6e65-0db5-4ec7-b810-db05404119cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98.Utils">
+      <UniqueIdentifier>{677055c7-de19-40cf-831b-786b28ac9b7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Pipeline">
+      <UniqueIdentifier>{aebfea98-06c6-4a29-a874-8c881817e0ba}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -27,11 +30,14 @@
     <ClCompile Include="ResourceBase.cpp">
       <Filter>03.Resources</Filter>
     </ClCompile>
-    <ClCompile Include="ImagePreProcessing.cpp">
-      <Filter>01. Preprocessing</Filter>
+    <ClCompile Include="ImagePreprocessor.cpp">
+      <Filter>98.Utils</Filter>
     </ClCompile>
-    <ClCompile Include="PreProcessing.cpp">
-      <Filter>01. Preprocessing</Filter>
+    <ClCompile Include="tinyxml2.cpp">
+      <Filter>98.Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="OCR.cpp">
+      <Filter>01.Pipeline</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -47,11 +53,17 @@
     <ClInclude Include="Types.h">
       <Filter>99.Headers</Filter>
     </ClInclude>
-    <ClInclude Include="ImagePreProcessing.h">
-      <Filter>01. Preprocessing</Filter>
+    <ClInclude Include="ImagePreprocessor.h">
+      <Filter>98.Utils</Filter>
     </ClInclude>
-    <ClInclude Include="PreProcessing.h">
-      <Filter>01. Preprocessing</Filter>
+    <ClInclude Include="tinyxml2.h">
+      <Filter>98.Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Defines.h">
+      <Filter>99.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="OCR.h">
+      <Filter>01.Pipeline</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
