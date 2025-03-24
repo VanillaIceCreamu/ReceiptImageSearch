@@ -15,6 +15,9 @@ public:
 	void ContourOCR(const shared_ptr<Image>& original);
 
 private:
+	char* UTF8ToANSI(const char* pszCode);
+
+private:
 	tesseract::TessBaseAPI* _ocr;
 };
 

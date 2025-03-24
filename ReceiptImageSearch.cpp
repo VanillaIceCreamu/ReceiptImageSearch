@@ -9,7 +9,7 @@ int main()
 	ocr->Init("kor");
 	
 	shared_ptr<Image> img = make_shared<Image>(); 
-	img->Load(".\\Receipts\\123.png");
+	img->Load(".\\Receipts\\Images (3).jpg");
 	ocr->ContourOCR(img);
 	return 0;
 }
